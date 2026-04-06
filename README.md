@@ -59,22 +59,6 @@ MonitorMRR is a lightweight macOS menu bar app that aggregates your daily revenu
 3. Drag `MonitorMRR.app` to your Applications folder.
 4. Launch MonitorMRR from Applications.
 
-### Option 2: Build from Source
-
-```bash
-# Clone the repository
-git clone https://github.com/codentacos/monitor-mrr.git
-cd monitor-mrr
-
-# Install dependencies
-npm install
-
-# Build
-npm run tauri build
-```
-
----
-
 ## Gatekeeper Blocked?
 
 Because MonitorMRR is not signed with a paid Apple Developer certificate, macOS Gatekeeper may block it on first launch.

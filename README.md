@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="src/assets/icon-192.png" alt="MonitorMRR" width="100" height="100"> -->
+<img src="assets/icon-192.png" alt="MonitorMRR" width="100" height="100">
 
 # MonitorMRR
 

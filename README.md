@@ -7,9 +7,9 @@
 **A macOS menu bar app to track your revenue across Stripe, LemonSqueezy, and Gumroad.**
 
 [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](https://developer.apple.com/macos/)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/zach_codes/monitorMRR-Releases/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/codentacos/monitorMRR-Releases/releases)
 
-[Download](https://github.com/zach_codes/monitorMRR-Releases/releases) &nbsp;|&nbsp; [Report Issues](https://github.com/zach_codes/monitorMRR-Releases/issues) &nbsp;|&nbsp; [Discussions](https://github.com/zach_codes/monitorMRR-Releases/discussions)
+[Download](https://github.com/codentacos/monitorMRR-Releases/releases) &nbsp;|&nbsp; [Report Issues](https://github.com/codentacos/monitorMRR-Releases/issues) &nbsp;|&nbsp; [Discussions](https://github.com/codentacos/monitorMRR-Releases/discussions)
 
 </div>
 
@@ -54,7 +54,7 @@ MonitorMRR is a lightweight macOS menu bar app that aggregates your daily revenu
 
 ### Option 1: DMG (Recommended)
 
-1. Download the latest DMG from [Releases](https://github.com/zach_codes/monitorMRR-Releases/releases).
+1. Download the latest DMG from [Releases](https://github.com/codentacos/monitorMRR-Releases/releases).
 2. Mount the DMG file.
 3. Drag `MonitorMRR.app` to your Applications folder.
 4. Launch MonitorMRR from Applications.
@@ -63,7 +63,7 @@ MonitorMRR is a lightweight macOS menu bar app that aggregates your daily revenu
 
 ```bash
 # Clone the repository
-git clone https://github.com/zach_codes/monitor-mrr.git
+git clone https://github.com/codentacos/monitor-mrr.git
 cd monitor-mrr
 
 # Install dependencies
@@ -145,7 +145,7 @@ Contributions are welcome.
 
 ```bash
 # Clone the repository
-git clone https://github.com/zach_codes/monitor-mrr.git
+git clone https://github.com/codentacos/monitor-mrr.git
 cd monitor-mrr
 
 # Install dependencies
@@ -159,9 +159,9 @@ npm run tauri dev
 
 ## Bug Reports and Feature Requests
 
-- **Bug Reports**: [File an issue](https://github.com/zach_codes/monitorMRR-Releases/issues/new?template=bug_report.md)
-- **Feature Requests**: [Suggest a feature](https://github.com/zach_codes/monitorMRR-Releases/issues/new?template=feature_request.md)
-- **Questions**: [Start a discussion](https://github.com/zach_codes/monitorMRR-Releases/discussions)
+- **Bug Reports**: [File an issue](https://github.com/codentacos/monitorMRR-Releases/issues/new?template=bug_report.md)
+- **Feature Requests**: [Suggest a feature](https://github.com/codentacos/monitorMRR-Releases/issues/new?template=feature_request.md)
+- **Questions**: [Start a discussion](https://github.com/codentacos/monitorMRR-Releases/discussions)
 
 ---
 
